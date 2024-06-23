@@ -1,0 +1,719 @@
+{
+    "annotations": [
+        {
+            "label": "药品",
+            "entity": "抗感解毒颗粒",
+            "common_name": "抗感解毒颗粒",
+            "effect": "消热解毒",
+            "related_symptoms": [
+                "感冒",
+                "发热"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "板蓝根颗粒(冲剂)",
+            "common_name": "板蓝根颗粒(冲剂)",
+            "effect": "清热解毒",
+            "related_symptoms": [
+                "感冒",
+                "咽喉肿痛"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "精制银翘解毒片",
+            "common_name": "精制银翘解毒片",
+            "effect": "清热解毒",
+            "related_symptoms": [
+                "感冒",
+                "咽喉肿痛"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "金菊感冒丸",
+            "common_name": "金菊感冒丸",
+            "effect": "疏风解表",
+            "related_symptoms": [
+                "感冒",
+                "头痛"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "金青感冒颗粒",
+            "common_name": "金青感冒颗粒",
+            "effect": "清热解表",
+            "related_symptoms": [
+                "感冒",
+                "头痛"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "金杜感冒片",
+            "common_name": "金杜感冒片",
+            "effect": "清热解表",
+            "related_symptoms": [
+                "感冒",
+                "发热"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "金梅感冒片",
+            "common_name": "金梅感冒片",
+            "effect": "解热镇痛",
+            "related_symptoms": [
+                "感冒",
+                "头痛"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "莱阳梨止咳颗粒",
+            "common_name": "莱阳梨止咳颗粒",
+            "effect": "清热止咳",
+            "related_symptoms": [
+                "咳嗽",
+                "咽喉炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "咳嗽糖浆",
+            "common_name": "咳嗽糖浆",
+            "effect": "止咳祛痰",
+            "related_symptoms": [
+                "咳嗽",
+                "支气管炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "咳嗽丸",
+            "common_name": "咳嗽丸",
+            "effect": "化痰止咳",
+            "related_symptoms": [
+                "咳嗽",
+                "咽喉痛"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "桂龙咳喘宁胶囊",
+            "common_name": "桂龙咳喘宁胶囊",
+            "effect": "止咳平喘",
+            "related_symptoms": [
+                "咳嗽",
+                "哮喘"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "贝母花流浸膏",
+            "common_name": "贝母花流浸膏",
+            "effect": "化痰止咳",
+            "related_symptoms": [
+                "咳嗽",
+                "痰多"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "百梅止咳颗粒",
+            "common_name": "百梅止咳颗粒",
+            "effect": "止咳祛痰",
+            "related_symptoms": [
+                "咳嗽",
+                "支气管炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "百纹止咳糖浆",
+            "common_name": "百纹止咳糖浆",
+            "effect": "止咳化痰",
+            "related_symptoms": [
+                "咳嗽",
+                "咽喉炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "金梅清暑颗粒",
+            "common_name": "金梅清暑颗粒",
+            "effect": "清热解毒",
+            "related_symptoms": [
+                "中风",
+                "中暑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "济众酵",
+            "common_name": "济众酵",
+            "effect": "疏风解表",
+            "related_symptoms": [
+                "中风",
+                "中暑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "薰香祛暑水",
+            "common_name": "薰香祛暑水",
+            "effect": "解表祛暑",
+            "related_symptoms": [
+                "中风",
+                "中暑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "复方香薷水",
+            "common_name": "复方香薷水",
+            "effect": "解暑化湿",
+            "related_symptoms": [
+                "中风",
+                "中暑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "复方草豆蔻酊",
+            "common_name": "复方草豆蔻酊",
+            "effect": "祛暑解表",
+            "related_symptoms": [
+                "中风",
+                "中暑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "定中丸",
+            "common_name": "定中丸",
+            "effect": "安神镇静",
+            "related_symptoms": [
+                "中风",
+                "眩晕"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "薄荷六一散",
+            "common_name": "薄荷六一散",
+            "effect": "解暑清热",
+            "related_symptoms": [
+                "中风",
+                "中暑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "活络丸",
+            "common_name": "活络丸",
+            "effect": "活血化瘀",
+            "related_symptoms": [
+                "中风",
+                "肢体麻木"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "消栓通络颗粒(冲剂)",
+            "common_name": "消栓通络颗粒(冲剂)",
+            "effect": "通络止痛",
+            "related_symptoms": [
+                "中风",
+                "肢体麻木"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "消栓通络胶囊",
+            "common_name": "消栓通络胶囊",
+            "effect": "通络活血",
+            "related_symptoms": [
+                "中风",
+                "肢体麻木"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "消栓通络片",
+            "common_name": "消栓通络片",
+            "effect": "活血化瘀",
+            "related_symptoms": [
+                "中风",
+                "肢体麻木"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "脑血栓片",
+            "common_name": "脑血栓片",
+            "effect": "活血化瘀",
+            "related_symptoms": [
+                "中风",
+                "脑血栓"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "血栓心脉宁",
+            "common_name": "血栓心脉宁",
+            "effect": "活血化瘀",
+            "related_symptoms": [
+                "中风",
+                "心脏病"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "麻仁滋脾丸",
+            "common_name": "麻仁滋脾丸",
+            "effect": "润肠通便",
+            "related_symptoms": [
+                "便秘",
+                "肠燥"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "通便灵丸",
+            "common_name": "通便灵丸",
+            "effect": "润肠通便",
+            "related_symptoms": [
+                "便秘",
+                "肠燥"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "通便灵丸",
+            "common_name": "通便灵丸",
+            "effect": "润肠通便",
+            "related_symptoms": [
+                "便秘",
+                "肠燥"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "豆蔻五味散",
+            "common_name": "豆蔻五味散",
+            "effect": "安神镇静",
+            "related_symptoms": [
+                "失眠",
+                "焦虑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "刺五加脑灵液",
+            "common_name": "刺五加脑灵液",
+            "effect": "补气安神",
+            "related_symptoms": [
+                "失眠",
+                "精神疲劳"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安神健脑液",
+            "common_name": "安神健脑液",
+            "effect": "安神健脑",
+            "related_symptoms": [
+                "失眠",
+                "神经衰弱"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安神补心颗粒",
+            "common_name": "安神补心颗粒",
+            "effect": "养心安神",
+            "related_symptoms": [
+                "失眠",
+                "心悸"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安神补脑液",
+            "common_name": "安神补脑液",
+            "effect": "安神补脑",
+            "related_symptoms": [
+                "失眠",
+                "记忆力减退"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安神宝颗粒",
+            "common_name": "安神宝颗粒",
+            "effect": "养血安神",
+            "related_symptoms": [
+                "失眠",
+                "焦虑"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安尔眠糖浆",
+            "common_name": "安尔眠糖浆",
+            "effect": "安神助眠",
+            "related_symptoms": [
+                "失眠",
+                "多梦"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安眠片",
+            "common_name": "安眠片",
+            "effect": "镇静安神",
+            "related_symptoms": [
+                "失眠",
+                "多梦"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安眠胶囊",
+            "common_name": "安眠胶囊",
+            "effect": "镇静安神",
+            "related_symptoms": [
+                "失眠",
+                "多梦"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "安眠丸",
+            "common_name": "安眠丸",
+            "effect": "镇静安神",
+            "related_symptoms": [
+                "失眠",
+                "多梦"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "苋菜黄连素胶囊",
+            "common_name": "苋菜黄连素胶囊",
+            "effect": "清热燥湿止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "小儿肠胃康颗粒",
+            "common_name": "小儿肠胃康颗粒",
+            "effect": "清热平肝，调理脾胃",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "止泻灵糖浆",
+            "common_name": "止泻灵糖浆",
+            "effect": "清热利湿，健脾，涩肠止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "止泻灵片",
+            "common_name": "止泻灵片",
+            "effect": "清热利湿，健脾，止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "婴儿健脾散",
+            "common_name": "婴儿健脾散",
+            "effect": "健脾，消食，止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "婴儿健脾颗粒",
+            "common_name": "婴儿健脾颗粒",
+            "effect": "健脾，消食，止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "薏芽健脾凝胶",
+            "common_name": "薏芽健脾凝胶",
+            "effect": "健脾益胃，化湿消滞",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "泻痢保童丸",
+            "common_name": "泻痢保童丸",
+            "effect": "健脾化湿，温中止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "小儿喜食颗粒",
+            "common_name": "小儿喜食颗粒",
+            "effect": "健脾，消食，化积",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "小儿渗湿止泻散",
+            "common_name": "小儿渗湿止泻散",
+            "effect": "健脾和胃，渗湿止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "小儿腹泻宁糖浆",
+            "common_name": "小儿腹泻宁糖浆",
+            "effect": "健脾和胃，生津止泻",
+            "related_symptoms": [
+                "腹泻"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "调经止痛胶囊",
+            "common_name": "调经止痛胶囊",
+            "effect": "补气活血，调经止痛",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "得生胶囊",
+            "common_name": "得生胶囊",
+            "effect": "调经养血，理气化瘀",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "壮血片",
+            "common_name": "壮血片",
+            "effect": "补气血，通经络，壮筋骨，健脾胃",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "永盛合阿胶",
+            "common_name": "永盛合阿胶",
+            "effect": "益气养血，滋阴润肺",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "益母颗粒",
+            "common_name": "益母颗粒",
+            "effect": "活血调经，行气止痛",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "益母草口服液",
+            "common_name": "益母草口服液",
+            "effect": "活血调经",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "益母草膏",
+            "common_name": "益母草膏",
+            "effect": "活血调经",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "养血当归糖浆",
+            "common_name": "养血当归糖浆",
+            "effect": "补气血，调经",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "养血当归颗粒",
+            "common_name": "养血当归颗粒",
+            "effect": "补气血，调经",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "养血当归胶囊",
+            "common_name": "养血当归胶囊",
+            "effect": "补气养血，调经",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "养血当归颗粒",
+            "common_name": "养血当归颗粒",
+            "effect": "补气养血，调经",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "养血当归颗粒",
+            "common_name": "养血当归颗粒",
+            "effect": "补气养血，调经",
+            "related_symptoms": [
+                "月经不调"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "复方陈香胃片",
+            "common_name": "复方陈香胃片",
+            "effect": "行气和胃，制酸止痛",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "铝碳酸镁咀嚼片",
+            "common_name": "铝碳酸镁咀嚼片",
+            "effect": "抗酸与胃黏膜保护类非处方药药品",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "铝碳酸镁混悬液",
+            "common_name": "铝碳酸镁混悬液",
+            "effect": "抗酸与胃黏膜保护类非处方药药品",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "胃乐胶囊",
+            "common_name": "胃乐胶囊",
+            "effect": "行气止痛",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "胃灵颗粒",
+            "common_name": "胃灵颗粒",
+            "effect": "健胃和中，制酸，止痛",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "胃欣舒胶囊",
+            "common_name": "胃欣舒胶囊",
+            "effect": "清热，制酸，止痛",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "胃康灵胶囊",
+            "common_name": "胃康灵胶囊",
+            "effect": "柔肝和胃，散瘀，缓急止痛",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "复方田七胃痛片",
+            "common_name": "复方田七胃痛片",
+            "effect": "制酸止痛，理气化瘀，温中健脾",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "复方田七胃痛胶囊",
+            "common_name": "复方田七胃痛胶囊",
+            "effect": "制酸止痛，理气化瘀，温中健脾",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "雪山胃宝丸",
+            "common_name": "雪山胃宝丸",
+            "effect": "健胃消食，散寒止痛",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "温胃降逆颗粒",
+            "common_name": "温胃降逆颗粒",
+            "effect": "温中散寒，缓急止痛",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        },
+        {
+            "label": "药品",
+            "entity": "胃炎宁颗粒",
+            "common_name": "胃炎宁颗粒",
+            "effect": "胃炎温中醒脾，和胃降逆，芳香化浊，消导化食",
+            "related_symptoms": [
+                "慢性胃炎"
+            ]
+        }
+    ]
+}
